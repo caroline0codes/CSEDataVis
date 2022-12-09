@@ -2,5 +2,9 @@ country,topsym,linksym,count
 Venezuela,backpain,armpain,100
 Venezuela,backpain,pain,90
 Venezuela,backpain,head,50
-Venezuela,backpain,foot,40
-Venezuela,backpain,toe,10
+Venezuela,armpain,backpain,10
+Venezuela,armpain,pain,10
+Venezuela,armpain,head,10
+Venezuela,head,backpain,10
+Venezuela,head,pain,10
+Venezuela,head,armpain,10
