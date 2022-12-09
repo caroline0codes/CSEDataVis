@@ -1,9 +1,8 @@
-country,gender,age,count
-Columbia,M,0-9,100
-Columbia,M,10-19,300
-Columbia,F,0-9,90
-Columbia,F,10-19,390
-Venezuela,M,0-9,50
-Venezuela,F,0-9,120
-Venezuela,M,10-19,400
-Venezuela,F,10-19,430
+country,age,countM,countF
+Columbia,0-9,100,4
+Columbia,10-19,300,5
+Columbia,20-29,90,3
+Venezuela,0-9,50,4
+Venezuela,0-9,120,5
+Venezuela,20-29,400,3
+
