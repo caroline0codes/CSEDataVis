@@ -2,12 +2,12 @@ country,topsym,linksym,count
 Venezuela,Vomiting,Abdominal Pain,1577
 Venezuela,Abdominal Pain,Nausea,416
 Venezuela,Vomiting,Diarrhea,815
-Venezuela,Blurred Vision,Neck Pain,392
+Venezuela,Neck Pain,Blurred Vision,392
 Venezuela,Vomiting,Headache,392
-Venezuela,Neck Pain,Headache,392
-Venezuela,Abdominal Pain,Fever,392
+Venezuela,Headache,Neck Pain,392
+Venezuela,Abdominal Pain,Fever
 Venezuela,Diarrhea,Fever,762
-Venezuela,Vomiting,Fever,1121
+Venezuela,Fever,Vomiting,1121
 Yemen,Fever,Vomiting,3231
 Yemen,Vomiting,Diarrhea,4113
 Yemen,Vomiting,Abdominal Pain,3969
