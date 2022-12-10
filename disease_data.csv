@@ -1,4 +1,13 @@
 country,topsym,linksym,count
+Nairobi,Diarrhea,Fever,12842
+Nairobi,Headache,Vomiting,4387
+Nairobi,Blurred Vision,Headache,4387
+Nairobi,Headache,Neck Pain,4387
+Nairobi,Headache,Blurred Vision,4387
+Nairobi,Vomiting,Diarrhea,21581
+Nairobi,Fever,Abdominal Pain,4323
+Nairobi,Vomiting,Abdominal Pain,17045
+Nairobi,Abdominal Pain,Nausea,4279
 Saudi Arabia,Vomiting,Stomach Hurts,2706
 Saudi Arabia,Diarrhea,Fever,5277
 Saudi Arabia,Abdominal Pain,Vomiting,10375
