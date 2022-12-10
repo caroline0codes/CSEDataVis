@@ -1,4 +1,16 @@
 country,topsym,linksym,count
+Turkey,Headache,Blurred Vision, 284
+Turkey,Diarrhea,Vomiting,806
+Turkey,Abdominal Pain, Fever,273
+Turkey,Blurred Vision,Dizziness, 539
+Turkey,Cough,Wheezing,2695
+Turkey,Vomiting, Fever,530
+Turkey,Fever,Diarrhea,264
+Turkey,Fever,Cold Symptoms,264
+Turkey,Rash,Itching,261
+Turkey,Itching,Rash,0
+Turkey,Abdominal Pain, Nausea,259
+Turkey,Headache,Fever,258
 Venezuela,Fever,Vomiting,1121
 Venezuela,Vomiting,Diarrhea,815
 Venezuela,Vomiting,Abdominal Pain,1577
