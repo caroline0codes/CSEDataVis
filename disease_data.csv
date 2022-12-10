@@ -1,13 +1,13 @@
 country,topsym,linksym,count
-Total,Abdominal Pain,Fever,91071
-Total,Fever,Diarrhea,50249
-Total,Blurred Vision,Vomiting,7572
-Total,Fever,Vomiting,34034
-Total,Cough,Wheezing,26953
-Total,Headache,Blurred Vision,27467
-Total,Vomiting,Headache,8747
-Total,Nausea,Abdominal Pain,16921
-Total,Blurred Vision,Neck Pain,7003
+Total,Abdominal Pain,Fever,910.71
+Total,Fever,Diarrhea,502.49
+Total,Blurred Vision,Vomiting,757.2
+Total,Fever,Vomiting,340.34
+Total,Cough,Wheezing,269.53
+Total,Headache,Blurred Vision,274.67
+Total,Vomiting,Headache,874.7
+Total,Nausea,Abdominal Pain,169.21
+Total,Blurred Vision,Neck Pain,700.3
 Total,Itching,Rash,261
 Total,Rash,Itching,0
 Total,Vomiting,Headache,152023
