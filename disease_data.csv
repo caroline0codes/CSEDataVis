@@ -1,4 +1,15 @@
 country,topsym,linksym,count
+Iran,Vomiting,Diarrhea,5227
+Iran,Fever,Diarrhea,5201
+Iran,Vomiting,Headache,1332
+Iran,Neck Pain,Headache,1332
+Iran,Headache,Blurred Vision,1332
+Iran,Headache,Neck Pain,1332
+Iran,Abdominal Pain,Nausea,1319
+Iran,Vomiting, Fever,2617
+Iran,Diarrhea,Vomiting,2614
+Iran,Vomiting,Abdominal Pain,3833
+Iran,Diarrhea,Abdominal Pain,1319
 Lebanon,Diarrhea,Vomiting,4598
 Lebanon,Abdominal Pain,Vomiting,3671
 Lebanon,Heahache,Vomiting,874
