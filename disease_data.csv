@@ -1,4 +1,21 @@
 country,topsym,linksym,count
+Colombia,Vomiting,Headache,1839
+Colombia,Headache,Blurred Vision,1839
+Colombia,Neck Pain,Blurred Vision,1839
+Colombia,Blurred Vision,Vomiting,1839
+Colombia,Headache,Neck Pain,1839
+Colombia,Vomiting,Abdominal Pain,7123
+Colombia,Diarrhea,Fever,5290
+Colombia,Vomiting,Fever,5306
+Colombia,Abdominal Pain,Fever,1762
+Colombia,Vomiting,Diarrhea,6942
+Colombia,Abdominal Pain,Nausea,1702
+Aleppo,Abdominal Pain,Vomiting,30366
+Aleppo,Abdominal Pain,Nausea,7686
+Aleppo,Vomiting,Diarrhea,38106
+Aleppo,Abdominal Pain, Fever,15210
+Aleppo,Vomiting,Fever,15191
+Aleppo,Diarrhea,Fever,15158
 Iran,Vomiting,Diarrhea,5227
 Iran,Fever,Diarrhea,5201
 Iran,Vomiting,Headache,1332
