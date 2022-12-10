@@ -1,10 +1,9 @@
 country,topsym,linksym,count
 Yemen,Fever,Vomiting,3231
-Yemen,Diarrhea,Vomiting,4113
-Yemen,Abdominal Pain,Vomiting,3165
-Yemen,Neck Pain,Blurred Vision,807
-Yemen,Headache,Vomiting,1024
-Yemen,Vomiting, Stomach Hurts, 804
+Yemen,Vomiting,Diarrhea4113
+Yemen,Vomiting,Abdominal Pain,3969
+Yemen,Blurred Vision,Neck Pain,807
+Yemen,Vomiting,Headache,1024
 Yemen,Abdominal Pain,Fever,794
 Yemen,Headache,Blurred Vision,1024
 Yemen,Diarrhea,Fever,1583
