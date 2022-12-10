@@ -1,7 +1,11 @@
 country,topsym,linksym,count
-Venezuela,backpain,armpain,564
-Venezuela,backpain,pain,920
-Venezuela,backpain,head,960
-Venezuela,armpain,pain,891
-Venezuela,armpain,head,274
-Venezuela,head,pain,278
+Yemen,Fever,Vomiting,3231
+Yemen,Diarrhea,Vomiting,4113
+Yemen,Abdominal Pain,Vomiting,3165
+Yemen,Neck Pain,Blurred Vision,807
+Yemen,Headache,Vomiting,1024
+Yemen,Vomiting, Stomach Hurts, 804
+Yemen,Abdominal Pain,Fever,794
+Yemen,Headache,Blurred Vision,1024
+Yemen,Diarrhea,Fever,1583
+Yemen,Abdominal Pain,Nausea,2403
