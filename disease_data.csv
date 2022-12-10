@@ -11,12 +11,12 @@ Colombia,Abdominal Pain,Fever,1762
 Colombia,Vomiting,Diarrhea,6942
 Colombia,Abdominal Pain,Nausea,1702
 Aleppo,Abdominal Pain,Vomiting,30366
+Aleppo,Fever,Vomiting,15191
 Aleppo,Abdominal Pain,Nausea,7686
-Aleppo,Nausea,Abdominal Pain,7686
 Aleppo,Vomiting,Diarrhea,38106
 Aleppo,Abdominal Pain,Fever,15210
-Aleppo,Vomiting,Fever,15191
 Aleppo,Diarrhea,Fever,15158
+Aleppo,Nausea,Abdominal Pain,7686
 Iran,Vomiting,Diarrhea,5227
 Iran,Fever,Diarrhea,5201
 Iran,Vomiting,Headache,1332
