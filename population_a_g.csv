@@ -1,4 +1,13 @@
 country,age,countM,countF
+Total,0-9,50,4
+Total,10-19,120,5
+Total,20-29,400,3
+Total,30-39,100,4
+Total,40-49,100,4
+Total,50-59,300,5
+Total,60-69,90,3
+Total,70-79,90,3
+Total,80-89,90,3
 Colombia,0-9,100,4
 Colombia,10-19,300,5
 Colombia,20-29,90,3
