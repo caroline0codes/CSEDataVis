@@ -1,4 +1,16 @@
 country,topsym,linksym,count
+Total,Abdominal Pain,Fever,91071
+Total,Fever,Diarrhea,50249
+Total,Blurred Vision,Vomiting,7572
+Total,Fever,Vomiting,34034
+Total,Cough,Wheezing,26953
+Total,Headache,Blurred Vision,27467
+Total,Vomiting,Headache,8747
+Total,Nausea,Abdominal Pain,16921
+Total,Blurred Vision,Neck Pain,7003
+Total,Itching,Rash,261
+Total,Rash,Itching,0
+Total,Vomiting,Headache152023
 Colombia,Vomiting,Headache,1839
 Colombia,Headache,Blurred Vision,1839
 Colombia,Neck Pain,Blurred Vision,1839
