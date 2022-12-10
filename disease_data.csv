@@ -4,12 +4,15 @@ Total,Fever,Diarrhea,502.49
 Total,Blurred Vision,Vomiting,757.2
 Total,Fever,Vomiting,340.34
 Total,Cough,Wheezing,269.53
+Total,Wheezing,Cough,0
 Total,Headache,Blurred Vision,274.67
 Total,Vomiting,Headache,874.7
 Total,Nausea,Abdominal Pain,169.21
+Total,Abdominal Pain,Nausea,169.21
 Total,Blurred Vision,Neck Pain,700.3
 Total,Itching,Rash,261
 Total,Rash,Itching,0
+Total,Vomiting,Headache,1520.23
 Total,Vomiting,Headache,1520.23
 Colombia,Vomiting,Headache,1839
 Colombia,Headache,Blurred Vision,1839
