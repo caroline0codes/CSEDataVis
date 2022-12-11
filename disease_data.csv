@@ -121,13 +121,13 @@ Thailand,Fever,Cough,80
 Thailand,Fever,Rash,80
 Thailand,Rash,Fever,0
 Thailand,Vomiting,Abdominal Pain,79
-Karachi,Abdominal Pain,Vomiting,7183.1
-Karachi,Vomiting,Fever,7128.2
-Karachi,Vomiting,Diarrhea,8906.0
-Karachi,Fever,Diarrhea,1786.3
-Karachi,Vomiting,Neck Pain,1785.3
-Karachi,Blurred Vision,Neck Pain,1785.3
-Karachi,Vomiting,Headache,1785.3
-Karachi,Blurred Vision,Headache,1785.3
-Karachi,Vomiting,Blurred Vision,1785.3
-Karachi,Fever,Abdominal Pain,1768.4
+Karachi,Abdominal Pain,Vomiting,71831
+Karachi,Vomiting,Fever,71282
+Karachi,Vomiting,Diarrhea,89060
+Karachi,Fever,Diarrhea,17863
+Karachi,Vomiting,Neck Pain,17853
+Karachi,Blurred Vision,Neck Pain,17853
+Karachi,Vomiting,Headache,17853
+Karachi,Blurred Vision,Headache,17853
+Karachi,Vomiting,Blurred Vision,17853
+Karachi,Fever,Abdominal Pain,17684
