@@ -1,18 +1,18 @@
 country,topsym,linksym,count
-Overall,Abdominal Pain,Fever,9107.1
-Overall,Fever,Diarrhea,5024.9
-Overall,Blurred Vision,Vomiting,757.2
-Overall,Fever,Vomiting,3403.4
-Overall,Cough,Wheezing,2695.3
-Overall,Wheezing,Cough,0
-Overall,Headache,Blurred Vision,2746.7
-Overall,Vomiting,Headache,874.7
-Overall,Nausea,Abdominal Pain,1692.1
-Overall,Abdominal Pain,Nausea,1692.1
-Overall,Blurred Vision,Neck Pain,700.3
-Overall,Itching,Rash,26.1
-Overall,Rash,Itching,0
-Overall,Vomiting,Headache,15202.3
+DEFAULT,Abdominal Pain,Fever,9107.1
+DEFAULT,Fever,Diarrhea,5024.9
+DEFAULT,Blurred Vision,Vomiting,757.2
+DEFAULT,Fever,Vomiting,3403.4
+DEFAULT,Cough,Wheezing,2695.3
+DEFAULT,Wheezing,Cough,0
+DEFAULT,Headache,Blurred Vision,2746.7
+DEFAULT,Vomiting,Headache,874.7
+DEFAULT,Nausea,Abdominal Pain,1692.1
+DEFAULT,Abdominal Pain,Nausea,1692.1
+DEFAULT,Blurred Vision,Neck Pain,700.3
+DEFAULT,Itching,Rash,26.1
+DEFAULT,Rash,Itching,0
+DEFAULT,Vomiting,Headache,15202.3
 Colombia,Vomiting,Headache,1839
 Colombia,Headache,Blurred Vision,1839
 Colombia,Neck Pain,Blurred Vision,1839
