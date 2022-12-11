@@ -12,7 +12,7 @@ DEFAULT,Abdominal Pain,Nausea,1692.1
 DEFAULT,Blurred Vision,Neck Pain,700.3
 DEFAULT,Itching,Rash,26.1
 DEFAULT,Rash,Itching,0
-Total,Vomiting,Headache,15202.3
+DEFAULT,Vomiting,Headache,15202.3
 Colombia,Vomiting,Headache,1839
 Colombia,Headache,Blurred Vision,1839
 Colombia,Neck Pain,Blurred Vision,1839
