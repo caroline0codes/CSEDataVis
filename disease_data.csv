@@ -103,3 +103,21 @@ Yemen,Abdominal Pain,Fever,794
 Yemen,Headache,Blurred Vision,1024
 Yemen,Diarrhea,Fever,1583
 Yemen,Abdominal Pain,Nausea,2403
+Thailand,Fever,Vomiting,90+78+78
+Thailand,Nausea,Vomiting,82
+Thailand,Abdominal Pain,Vomiting,79
+Thailand,Vomiting,Diarrhea,90+85+80+78
+Thailand,Fever,Diarrhea,90+78
+Thailand,Vomiting,Headache,84
+Thailand,Vomiting,Fever,83
+Thailand,Headache,Fever,79
+Thailand,Sore Throat,Fever,0
+Thailand,Rash,Fever,0
+Thailand,Cough,Fever,80
+Thailand,Fever,Sore Throat,83
+Thailand,Vomiting,Nausea,82
+Thailand,Fever,Rash,80
+Thailand,Fever,Cough,80
+Thailand,Fever,Rash,80
+Thailand,Rash,Fever,0
+Thailand,Vomiting,Abdominal Pain,79
